@@ -1,0 +1,117 @@
+
+    所有宏需要的属性为四星达标满属性：453制作 407加工 398cp
+
+    - 如果是395cp，把宏1-俭约II中间的那个稳手II换成稳手I
+
+    稳定推进品质约为4500. 如果需要更高品质，可以在宏2结束后使用手动收尾。
+
+    - 需要的共享技能：
+        俭约II 稳手II 模范II 比格 改革 仓促 秘诀 渐进 高速 松弛 回收
+      
+      3星宏不需要高速，可以省一个额外位置
+      如果只用前2个宏的话。可以不需要松弛回收
+
+      一共11个共享技能，所以部分职业（如锻铁）无法使用。烹饪的话还可以多带一个俭约I用来辅助手动收尾
+      
+      改革是必须的，不带NQ率感人；松弛回收也是必须的，因为宏不能控制CP用量，在CP不够的时候必须松弛+回收
+
+    - 手动收尾的一般流程是：80cp可以稳手-阔步-比格，100cp可以稳手2-阔步-改革-比格。3高速收尾。
+    
+    - 手动收尾可以选择：
+      少一个仓促；
+      不用改革；
+      高速制作+中级制作+模范制作收尾；
+      精修再加工 等等
+
+    生产模拟器 http://ff14.nikeya.jp.net/crafter/cn
+    英文（4星）http://ff14.nikeya.jp.net/crafter/en
+
+宏1 (所有宏通用)
+
+/ac 安逸 <wait.2>
+/ac 秘诀 <wait.3>
+/ac 内静 <wait.2>
+/ac 秘诀 <wait.3>
+/ac 稳手II <wait.2>
+/ac 俭约II <wait.2>
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+/ac 稳手II <wait.2>
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+/ac 秘诀 <wait.3>
+
+4星-宏2
+
+/ac 渐进 <wait.3>
+/ac 秘诀 <wait.3>
+/ac 安逸 <wait.2>
+/ac 秘诀 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 秘诀 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 秘诀 <wait.3>
+/ac 精修II <wait.3>
+/ac 秘诀 <wait.3>
+/ac 稳手II <wait.2>
+/ac 秘诀 <wait.3>
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+
+4星-宏3（需要76cp，cp不够的时候会自动回收）
+
+/ac 秘诀 <wait.3>
+/ac 仓促 <wait.3>
+/ac 秘诀 <wait.3>
+/ac 阔步 <wait.2>
+/ac 改革 <wait.2>
+/ac 稳手II <wait.2>
+/ac 比尔格的祝福 <wait.3>
+/ac 松弛
+/ac 高速制作 <wait.2>
+/ac 仓促 <wait.1>
+/ac 高速制作 <wait.2>
+/ac 仓促 <wait.3>
+/ac 回收 <wait.2>
+/ac 高速制作 <wait.3>
+/ac 仓促
+
+3星-宏2
+
+/ac 渐进 <wait.3>
+/ac 秘诀 <wait.3>
+/ac 安逸 <wait.2>
+/ac 秘诀 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 秘诀 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 精修II <wait.3>
+/ac 秘诀 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 秘诀 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 秘诀 <wait.3>
+/ac 稳手II <wait.2>
+/ac 秘诀 <wait.3>
+
+3星-宏3（CP不够的时候自动回收）
+
+/ac 仓促 <wait.3>
+/ac 仓促 <wait.3>
+/ac 秘诀 <wait.3>
+/ac 仓促 <wait.3>
+/ac 稳手II <wait.2>
+/ac 秘诀 <wait.3>
+/ac 改革 <wait.2>
+/ac 仓促 <wait.3>
+/ac 阔步 <wait.2>
+/ac 比尔格的祝福 <wait.3>
+/ac 松弛
+/ac 模范制作II <wait.2>
+/ac 回收 <wait.2>
+/ac 仓促 <wait.3>
+/ac 仓促
