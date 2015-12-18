@@ -1,0 +1,40 @@
+老4星配方
+
+耐久：8+4
+工序：8加工+1比格+3作业
+cp：395
+
+其实这个循环早就有了，不过因为3次可以推完，加上集中加工的存在才能100%hq
+70耐的没法用这个，因为少了10耐久，而且需要更多的作业工序
+
+/ac 安逸 <wait.2>
+/ac 内静 <wait.2>
+/ac 稳手II <wait.2>
+/ac 俭约II <wait.2>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 稳手II <wait.2>
+/ac 集中加工
+/ac 加工 <wait.3>
+
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 稳手II <wait.2>
+/ac 阔步 <wait.2>
+/ac 比尔格的技巧
+/ac 改革 <wait.3>
+/ac 比尔格的祝福 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 模范制作II <wait.3>
+
