@@ -1,0 +1,197 @@
+60级用
+
+Live的生产宏：
+---- 1星 11仓促法 ----
+---- 无食物版本的药剂+食物宏 ----
+---- 59~60等的35耐材料 10仓促 ----
+库兰的：
+---- 35耐 加工流 ----
+---- 70耐 加工流 ----
+---- 老4星 80耐 ----
+
+
+比尔格的技巧可以自行加入
+---- 1星 11仓促法 ----
+1116的宏要求是431cp，作业是坚信+新颖2+模范2X4能结束
+
+/ac 坚信 <me><wait.3>
+/ac 安逸 <me><wait.2>
+/ac 内静 <me><wait.2>
+/ac 稳手II <me><wait.2>
+/ac 俭约II <me><wait.2>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 稳手II <me><wait.2>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+
+/ac 精修II <me><wait.3>
+/ac 稳手II <me><wait.2>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 阔步 <wait.2>
+/ac 新颖II <wait.2>
+/ac 比尔格的祝福 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 模范制作II <wait.3>
+/ac 模范制作II <wait.3>
+/ac 模范制作II <wait.3>
+
+---- 无食物版本的药剂+食物宏 ----
+要求402cp，作业精度尽量高。
+这个宏可以推58的食物和爆发药。59-60的一般推不满，作业阈值不明
+
+/ac 安逸 <me><wait.2>
+/ac 内静 <me><wait.2>
+/ac 稳手II <me><wait.2>
+/ac 俭约II <me><wait.2>
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+/ac 稳手II <me><wait.2>
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+/ac 集中加工 <me><wait.1>
+/ac 加工 <me><wait.3>
+/ac 稳手 <me><wait.2>
+/ac 阔步 <wait.2>
+/ac 比尔格的祝福 <wait.3>
+/ac 水之美名 <wait.2>
+/ac 水之印记 <wait.3>
+/ac 水之印记 <wait.3>
+/e 仅供魔杜纳生产群内部交流
+---- 59~60等的35耐材料 10仓促 ----
+要396cp
+58和58以下的35耐不用这个，用的1次黑手6次加工，2次模范了
+
+/ac 安逸 <me><wait.2>
+/ac 内静 <me><wait.2>
+/ac 稳手II <me><wait.2>
+/ac 俭约 <me><wait.2>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 掌握 <me><wait.2>
+/ac 稳手II <me><wait.2>
+/ac 仓促 <me><wait.3>
+/ac 安逸 <me><wait.2>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 掌握 <me><wait.2>
+
+/ac 稳手II <me><wait.2>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 仓促 <me><wait.3>
+/ac 稳手 <me><wait.2>
+/ac 阔步 <wait.2>
+/ac 比尔格的祝福 <wait.3>
+/ac 水之美名 <wait.2>
+/ac 水之印记 <wait.3>
+
+
+库兰的：
+
+
+---- 35耐 加工流 ----
+需要436cp，新颖1（444cp可用新颖2，区别不大）
+（58配方 2次模范可推满，不用开新颖可以节省24cp）
+最差情况下推进品质为6000（77%）
+
+/ac 安逸 <wait.2>
+/ac 内静 <wait.2>
+/ac 稳手II <wait.2>
+/ac 俭约 <wait.2>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 掌握 <wait.2>
+/ac 阔步 <wait.2>     -- 这一步很关键，没有他就少500品质
+/ac 稳手II <wait.2>
+
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 阔步 <wait.2>
+/ac 比尔格的技巧
+/ac 改革 <wait.3>
+/ac 比尔格的祝福 <wait.3>
+/ac 新颖 <wait.3>     -- 新颖I，如果444cp可以改成新颖II，然并卵
+/ac 模范制作II <wait.3>
+/ac 模范制作II
+/e 仅供魔杜纳生产群内部交流
+---- 70耐 加工流 ----
+同样是436cp，因为就是把上面一个的新颖 改成 坚信+加工，用了一点技巧可以多加工一次，基本100%hq
+没有使用美名，作业要求较高(需要坚信+3模范II可以推满。>725可以推满59级）
+
+/ac 坚信 <wait.3>
+/ac 安逸 <wait.2>
+/ac 内静 <wait.2>
+/ac 俭约 <wait.2>
+/ac 稳手II <wait.2>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+
+/ac 掌握 <wait.2>
+/ac 阔步 <wait.2>
+/ac 稳手II <wait.2>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 集中加工
+/ac 加工 <wait.3>
+/ac 阔步 <wait.2>
+/ac 比尔格的技巧
+/ac 改革 <wait.3>
+/ac 比尔格的祝福 <wait.3>
+/ac 模范制作II <wait.3>
+/ac 模范制作II <wait.3>
+/ac 模范制作II <wait.3>
+
+---- 老4星 80耐 ----
+需要391cp，100%hq
+
+/ac 内静 <wait.2>
+/ac 稳手 <wait.2>
+/ac 中级加工 <wait.3>
+/ac 中级加工 <wait.3>
+/ac 中级加工 <wait.3>
+/ac 阔步 <wait.2>
+/ac 中级加工 <wait.3>
+/ac 阔步 <wait.2>
+/ac 稳手II <wait.2>
+/ac 上级加工 <wait.3>
+/ac 阔步 <wait.2>
+/ac 比尔格的技巧 <wait.3>
+/ac 中级制作 <wait.3>
+/ac 比尔格的祝福 <wait.3>
+/ac 中级制作
